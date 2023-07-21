@@ -1,4 +1,6 @@
+.vscode
 printer-*_*.cfg
+crowsnest.conf.*
 *.bkp
 *.backup
 mooncord.json
