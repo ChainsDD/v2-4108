@@ -4,3 +4,5 @@ crowsnest.conf.*
 *.bkp
 *.backup
 mooncord.json
+adxl_results/
+KAMP/
