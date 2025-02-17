@@ -6,3 +6,4 @@ crowsnest.conf.*
 mooncord.json
 adxl_results/
 /KAMP
+/ShakeTune_results
